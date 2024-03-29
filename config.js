@@ -11,7 +11,7 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'John',
+	name: 'Lyrhe',
 	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: false,
@@ -53,39 +53,39 @@ const CONFIG = {
 	firstButtonsContainer: [
 		{
 			id: '1',
-			name: 'Github',
+			name: 'Deluge',
 			icon: 'github',
-			link: 'https://github.com/',
+			link: 'http://192.168.1.250:8112',
 		},
 		{
 			id: '2',
-			name: 'Mail',
+			name: 'JPopsuki',
 			icon: 'mail',
-			link: 'https://mail.protonmail.com/',
+			link: 'https://jpopsuki.eu/index.php',
 		},
 		{
 			id: '3',
-			name: 'Todoist',
+			name: 'Bemanisows',
 			icon: 'trello',
-			link: 'https://todoist.com',
+			link: 'https://bemaniso.ws/index.php',
 		},
 		{
 			id: '4',
-			name: 'Calendar',
+			name: 'BakaBT',
 			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+			link: 'https://bakabt.me/bonus.php',
 		},
 		{
 			id: '5',
-			name: 'Reddit',
+			name: 'MyAnonamouse',
 			icon: 'glasses',
-			link: 'https://reddit.com',
+			link: 'https://www.myanonamouse.net',
 		},
 		{
 			id: '6',
-			name: 'Odysee',
+			name: 'Orpheus',
 			icon: 'youtube',
-			link: 'https://odysee.com/',
+			link: 'https://orpheus.network/bonus.php',
 		},
 	],
 
